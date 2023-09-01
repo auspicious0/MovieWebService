@@ -43,8 +43,12 @@
 ## 기술 스택
 
 React.js
+
 React Router
+
 Fetch API를 이용한 데이터 검색
+
 CSS 스타일링
+
 
 
