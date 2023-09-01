@@ -17,13 +17,13 @@
 2. 프로젝트 폴더로 이동하고 필요한 종속성을 설치합니다. 
 
 
-(
 
-  cd MovieWebService
 
-  npm install
+      cd MovieWebService
+    
+      npm install
   
-)
+
 
 
 3. 개발 서버를 시작합니다. (npm start)
