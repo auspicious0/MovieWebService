@@ -18,9 +18,11 @@
 
 
 (
+
   cd MovieWebService
 
   npm install
+  
 )
 
 
