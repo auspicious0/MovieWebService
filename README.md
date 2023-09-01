@@ -15,11 +15,15 @@
 
 1. 이 프로젝트를 클론합니다. (git clone https://github.com/auspicious0/MovieWebService.git)
 2. 프로젝트 폴더로 이동하고 필요한 종속성을 설치합니다. 
+
+
 (
   cd MovieWebService
 
   npm install
 )
+
+
 3. 개발 서버를 시작합니다. (npm start)
 4. 웹 브라우저에서 http://localhost:3000로 접속하여 앱을 사용할 수 있습니다.
 
